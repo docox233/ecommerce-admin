@@ -6,7 +6,7 @@ export default function NewProduct(){
     return <>
         <div className="sm:flex sm:items-center sm:justify-between py-3">
       <div className="text-center sm:text-left">
-        <p className="mt-1.5 text-md text-gray-500 max-w-lg">Let's create a new product</p>
+        <p className="mt-1.5 text-md text-gray-500 max-w-lg">It&apos;s a great product!</p>
       </div>
 
       
